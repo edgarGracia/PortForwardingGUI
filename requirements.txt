@@ -1,0 +1,4 @@
+PyQt5
+QDarkStyle
+sshtunnel
+cryptography
