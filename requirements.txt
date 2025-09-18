@@ -2,3 +2,4 @@ PyQt5
 QDarkStyle
 sshtunnel
 cryptography
+paramiko<3.0.0
